@@ -34,9 +34,9 @@ have a basic diagram of the radar system. In green we have the transmitter path 
 we have the receiver path.
 
 <p align="center">
-<img src="Doc\img\FMCWSystem.svg" alt="Pipa" title="FMCW Diagram" width="450" >
+<img src="img//FMCWSystem.svg" alt="" title="FMCW Diagram" width="450" >
 </p>
-
+img//experimental-setup-1.jpg
 ## General overview of the results
 
 ### Vivaldi Antenna
@@ -51,7 +51,7 @@ low fractional bandwidth.
 Finally, we decided to made a Vivaldi antenna. Vivaldi antennas are useful for any frequency, as all antennas are scalable in size for use at any frequency. Printed circuit technology
 makes this type antenna cost effective at microwave frequencies exceeding 1 GHz.
 <p align="center">
-<img src="Doc\img\vivaldi_1.svg" alt="Pipa" title="FMCW Diagram" width="350" >
+<img src="img/\vivaldi_1.svg" alt="" title="FMCW Diagram" width="350" >
 </p>
 
 
@@ -61,17 +61,17 @@ done with a thickness of 0.8mm. The third antenna was fabricated with a thicknes
 
 ### Bottom 
 <p align="center">
-<img src="Doc\img\vivaldi1.jpg" alt="Pipa" title="FMCW Diagram" width="300" >
+<img src="img/\vivaldi1.jpg" alt="" title="FMCW Diagram" width="300" >
 </p>
 
 ### Top
 <p align="center">
-<img src="Doc\img\vivaldi2.jpg" alt="Pipa" title="FMCW Diagram" width="300" >
+<img src="img/\vivaldi2.jpg" alt="" title="FMCW Diagram" width="300" >
 </p>
 
 ### Experimental Results compared with simulation ones.
 <p align="center">
-<img src="Doc\img\s11_exp_sim.svg" alt="Pipa" title="FMCW Diagram" width="500" >
+<img src="img/\s11_exp_sim.svg" alt="" title="FMCW Diagram" width="500" >
 </p>
 
 </br> </br> 
@@ -85,11 +85,11 @@ and hence the results are poor.
 
 ## Experimental Results 
 <p align="center">
-<img src="Doc\img\experimental-setup-1.jpg" alt="Pipa" title="FMCW Diagram" width="250" >
+<img src="img/\experimental-setup-1.jpg" alt="" title="FMCW Diagram" width="250" >
 </p>
 </br> </br>
 <p align="center">
-<img src="Doc\img\experimental-setup-4.jpg" alt="Pipa" title="FMCW Diagram" width="" >
+<img src="img/\experimental-setup-4.jpg" alt="" title="FMCW Diagram" width="" >
 </p>
 </br> </br>
 
@@ -97,13 +97,13 @@ and hence the results are poor.
 ####  A. Spectrum of the output signal before going to the transmitter antenna
 
 <p align="center">
-<img src="Doc\img\radar-results-1.jpg" alt="Pipa" title="FMCW Diagram" width="300" >
+<img src="img/\radar-results-1.jpg" alt="" title="FMCW Diagram" width="300" >
 </p>
 
 #### B. Spectrum of the output of the mixer
 
 <p align="center">
-<img src="Doc\img\radar-results-2.jpg" alt="Pipa" title="FMCW Diagram" width="300" >
+<img src="img/\radar-results-2.jpg" alt="" title="FMCW Diagram" width="300" >
 </p>
 
 
