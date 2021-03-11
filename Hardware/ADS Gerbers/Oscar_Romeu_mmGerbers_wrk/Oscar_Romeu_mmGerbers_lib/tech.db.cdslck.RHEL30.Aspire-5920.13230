@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jsieiro
+HostName                       Aspire-5920
+ProcessIdentifier              13230
+ProcessCreationTime_UTC        1560418559
+ProcessCreationTime_Readable   jue 13 jun 2019 11:35:59 CEST CEST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/jsieiro/ADS/ADS2016/TFG_Oscar Romeu/Oscar_Romeu_mmGerbers_wrk/Oscar_Romeu_mmGerbers_lib/tech.db.cdslck
+TimeEditLocked                 jue 13 jun 2019 11:38:50 CEST CEST

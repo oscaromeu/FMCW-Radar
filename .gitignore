@@ -1,0 +1,48 @@
+#  config .gitignore avoid to push innecesari stuff to github repo 
+
+# compiled files #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# packets #
+############
+
+*.7z
+*.gz
+*.jar
+*.rar
+*.tar
+*.zip
+
+# logs and DBs #
+#########################
+*.log
+*.sql
+*.sqlite
+
+# folders           #
+######################
+
+img/
+
+# generated system files #
+################################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+node_modules
+.idea
+
+# Eagle Files #
+################################
+
+*.*#

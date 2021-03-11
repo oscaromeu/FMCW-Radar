@@ -1,0 +1,13 @@
+<!DOCTYPE Technology>
+<Lpp_List>
+    <LPP protect="0" alpha="105" line="0" layer="copper_bottom" visible="1" purpose="drawing" fill="18" mode="2" rgb="16711680"/>
+    <LPP protect="0" alpha="105" line="0" layer="copper_top" visible="1" purpose="drawing" fill="18" mode="2" rgb="16776960"/>
+    <LPP protect="0" alpha="105" line="0" layer="drill_1_16.xln" visible="1" purpose="drawing" fill="18" mode="2" rgb="16711680"/>
+    <LPP protect="0" alpha="105" line="0" layer="drills.xln" visible="1" purpose="drawing" fill="18" mode="2" rgb="16711680"/>
+    <LPP protect="0" alpha="105" line="0" layer="profile" visible="1" purpose="drawing" fill="18" mode="2" rgb="16711680"/>
+    <LPP protect="0" alpha="105" line="0" layer="silkscreen2" visible="1" purpose="drawing" fill="18" mode="2" rgb="16711935"/>
+    <LPP protect="0" alpha="105" line="0" layer="silkscreen" visible="1" purpose="drawing" fill="18" mode="2" rgb="255"/>
+    <LPP protect="0" alpha="105" line="0" layer="silkscreen_top" visible="1" purpose="drawing" fill="18" mode="2" rgb="16711680"/>
+    <LPP protect="0" alpha="105" line="0" layer="soldermask_bottom" visible="1" purpose="drawing" fill="18" mode="2" rgb="49152"/>
+    <LPP protect="0" alpha="105" line="0" layer="soldermask_top" visible="1" purpose="drawing" fill="18" mode="2" rgb="65535"/>
+</Lpp_List>

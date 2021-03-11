@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<AdsTranslatorSetupFile Version="1.0">
+    <Import>
+        <ZeroSuppression>Leading</ZeroSuppression>
+        <CoordMode>AbsoluteCMode</CoordMode>
+        <NumIntegerDigits>3</NumIntegerDigits>
+        <NumFractionalDigits>4</NumFractionalDigits>
+        <Unit>mm</Unit>
+        <Layers>
+            <Layer EecadLayer="copper_bottom" AdsLayer="copper_bottom" Transfer="1" />
+        </Layers>
+        <FileFormat>RS274X</FileFormat>
+        <XOffset>0</XOffset>
+        <YOffset>0</YOffset>
+        <Scale>1</Scale>
+        <OpenLineWidth>0.025</OpenLineWidth>
+        <SingleFile>0</SingleFile>
+        <SingleFileFilename />
+        <DrillLayers />
+        <Flatten>0</Flatten>
+        <AutoMerge>0</AutoMerge>
+        <ImportNegativeLayerAsSlotLayer>0</ImportNegativeLayerAsSlotLayer>
+        <CreateComponentsInFolder>1</CreateComponentsInFolder>
+        <PathsAsPolygons>0</PathsAsPolygons>
+        <VectorizeText>1</VectorizeText>
+        <LayerStackup>1</LayerStackup>
+        <HoleFormat>Holes As Cutlines</HoleFormat>
+        <Polarity />
+        <Nets />
+        <Components />
+    </Import>
+    <Export>
+        <FileFormat>RS274X</FileFormat>
+        <ZeroSuppression>Leading</ZeroSuppression>
+        <CoordMode>AbsoluteCMode</CoordMode>
+        <NumIntegerDigits>2</NumIntegerDigits>
+        <NumFractionalDigits>4</NumFractionalDigits>
+        <XOffset>0</XOffset>
+        <YOffset>0</YOffset>
+        <Scale>1</Scale>
+        <OpenLineWidth>0.025</OpenLineWidth>
+        <SingleFile>0</SingleFile>
+        <Unit>mm</Unit>
+        <Flatten>0</Flatten>
+        <PathsAsPolygons>0</PathsAsPolygons>
+        <HoleFormat>Holes As Cutlines</HoleFormat>
+        <Layers>
+            <Layer EecadLayer="copper_bottom:drawing" AdsLayer="copper_bottom:drawing" Transfer="1" />
+            <Layer EecadLayer="copper_top:drawing" AdsLayer="copper_top:drawing" Transfer="1" />
+            <Layer EecadLayer="hole:drawing" AdsLayer="hole:drawing" Transfer="1" />
+            <Layer EecadLayer="profile:drawing" AdsLayer="profile:drawing" Transfer="1" />
+            <Layer EecadLayer="silkscreen_top:drawing" AdsLayer="silkscreen_top:drawing" Transfer="1" />
+            <Layer EecadLayer="soldermask_top:drawing" AdsLayer="soldermask_top:drawing" Transfer="1" />
+        </Layers>
+        <SingleFileFilename></SingleFileFilename>
+        <DrillLayers>
+            <Layer LayerName="hole:drawing" LayerNumber="5" DrillExport="1">
+                <DrillDiameterMap DrawDiameter="6040" ToolDiameter="6040" />
+                <DrillDiameterMap DrawDiameter="7000" ToolDiameter="7000" />
+                <DrillDiameterMap DrawDiameter="6604" ToolDiameter="6604" />
+                <DrillDiameterMap DrawDiameter="10000" ToolDiameter="10000" />
+            </Layer>
+            <Layer LayerName="soldermask_top:drawing" LayerNumber="42" DrillExport="1">
+                <DrillDiameterMap DrawDiameter="22860" ToolDiameter="22860" />
+            </Layer>
+        </DrillLayers>
+        <AutoMerge>0</AutoMerge>
+        <ImportNegativeLayerAsSlotLayer>0</ImportNegativeLayerAsSlotLayer>
+        <CreateComponentsInFolder>1</CreateComponentsInFolder>
+        <VectorizeText>1</VectorizeText>
+        <LayerStackup>1</LayerStackup>
+        <Polarity>
+            <Layer EecadLayer="copper_bottom:drawing" Polarity="Positive" />
+            <Layer EecadLayer="copper_top:drawing" Polarity="Positive" />
+            <Layer EecadLayer="hole:drawing" Polarity="Positive" />
+            <Layer EecadLayer="profile:drawing" Polarity="Positive" />
+            <Layer EecadLayer="silkscreen_top:drawing" Polarity="Positive" />
+            <Layer EecadLayer="soldermask_top:drawing" Polarity="Positive" />
+        </Polarity>
+        <Nets />
+        <Components />
+        <SelectedDesignName></SelectedDesignName>
+    </Export>
+</AdsTranslatorSetupFile>

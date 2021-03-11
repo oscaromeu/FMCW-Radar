@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+  <COMPONENT>
+    <NAME>Amplifier_Power</NAME>
+    <VENDOR>d:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Amplifier_Power</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Source_LFM</NAME>
+    <VENDOR>d:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Source_LFM</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Source_Pulse</NAME>
+    <VENDOR>d:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Source_Pulse</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Amplifier_Gain</NAME>
+    <VENDOR>D:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Amplifier_Gain</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Source_CW</NAME>
+    <VENDOR>D:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Source_CW</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Test_Point</NAME>
+    <VENDOR>D:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Test_Point</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Antenna_XMIT</NAME>
+    <VENDOR>D:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Antenna_XMIT</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Test_Point_A</NAME>
+    <VENDOR>D:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Test_Point_A</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Test_Point_B</NAME>
+    <VENDOR>D:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Test_Point_B</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Test_Point2</NAME>
+    <VENDOR>d:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Test_Point2</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Test_PointA</NAME>
+    <VENDOR>d:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Test_PointA</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE></LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Target2</NAME>
+    <VENDOR>D:\users\default_15\radar_prj\networks</VENDOR>
+    <DESCRIPTION>Target2</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>N/A</LICENSE>
+  </COMPONENT>
+</COMPONENTS>

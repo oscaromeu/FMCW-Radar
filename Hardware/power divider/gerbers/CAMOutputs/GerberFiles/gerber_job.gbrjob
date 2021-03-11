@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-06-12T11:55:35Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "power_divider"
+        },
+        "Owner": "Oscar Romeu <oromeute11@alumnes.ub.edu>",
+        "Size": {
+            "X": 34.925,
+            "Y": 21.59
+        }
+    }
+}

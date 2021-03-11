@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/ads.defs
+DEFINE dg_radar_lib ./dg_radar_lib
+ASSIGN dg_radar_lib writePath dg_radar_lib
+ASSIGN dg_radar_lib libMode shared

@@ -1,0 +1,10 @@
+<!DOCTYPE DisplayAttributes>
+<Lpp_Differences_List>
+    <LPP layer="copper_bottom" visible="0" purpose="drawing"/>
+    <LPP layer="drill_1_16.xln" visible="0" purpose="drawing"/>
+    <LPP layer="drills.xln" visible="0" purpose="drawing"/>
+    <LPP layer="silkscreen2" visible="0" purpose="drawing"/>
+    <LPP layer="silkscreen_top" rgb="43775" purpose="drawing"/>
+    <LPP layer="soldermask_bottom" visible="0" purpose="drawing"/>
+    <LPP layer="soldermask_top" visible="0" purpose="drawing"/>
+</Lpp_Differences_List>

@@ -1,0 +1,89 @@
+<ADSWorkspace Revision="13" Version="100">
+    <Workspace Name="">
+        <Library Name="ads_sources" />
+        <Library Name="ads_tlines" />
+        <Library Name="ads_bondwires" />
+        <Library Name="ads_behavioral" />
+        <Library Name="ads_textfonts" />
+        <Library Name="ads_common_cmps" />
+        <Library Name="ads_designs" />
+        <Library Name="ads_standard_layers" />
+        <Library Name="adstechlib" />
+        <Library Name="ads_schematic_layers" />
+        <Library Name="empro_standard_layers" />
+        <Library Name="ads_rflib" />
+        <Library Name="ads_simulation" />
+        <Library Name="ads_datacmps" />
+        <Library Name="1xEV" />
+        <Library Name="3GPPFDD" />
+        <Library Name="3GPPFDD_10_99" />
+        <Library Name="Antennas_and_Propagation" />
+        <Library Name="CDMA" />
+        <Library Name="cdma2000" />
+        <Library Name="Circuit_Cosimulation" />
+        <Library Name="CMMB" />
+        <Library Name="Controllers" />
+        <Library Name="DTMB" />
+        <Library Name="DTV" />
+        <Library Name="EDGE" />
+        <Library Name="GSM" />
+        <Library Name="HDL_Blocks" />
+        <Library Name="HSDPA" />
+        <Library Name="HSUPA" />
+        <Library Name="Instruments" />
+        <Library Name="Interactive_Controls_and_Displays" />
+        <Library Name="LTE" />
+        <Library Name="Numeric" />
+        <Library Name="Obsolete" />
+        <Library Name="Signal_Converters" />
+        <Library Name="Simulation_Sequencing" />
+        <Library Name="Sinks" />
+        <Library Name="SystemVue_Cosimulation" />
+        <Library Name="TDSCDMA" />
+        <Library Name="Timed" />
+        <Library Name="UMB" />
+        <Library Name="UWB" />
+        <Library Name="WLAN" />
+        <Library Name="WLAN_11n" />
+        <Library Name="WMAN" />
+        <Library Name="WMAN_16e" />
+        <Library Name="dg_radar_lib" />
+        <Log Name="conversion_results.log" />
+        <Preferences Name="layout.prf" />
+        <Preferences Name="schematic.prf" />
+        <Text Name="contenttest.txt" />
+        <LibraryDefs Name="lib.defs" />
+        <ConfigFile Name="de_sim.cfg" />
+        <ConfigFile Name="hpeesofbrowser.cfg" />
+        <ConfigFile Name="hpeesofsim.cfg" />
+        <Log Name="search_history.log" />
+        <Folder Name="01_ReadMe">
+            <Cell Name="dg_radar_lib:ReadMe" />
+        </Folder>
+        <Folder Name="02_Amplifiers">
+            <Cell Name="dg_radar_lib:Amplifier_Gain" />
+            <Cell Name="dg_radar_lib:Amplifier_LNA" />
+            <Cell Name="dg_radar_lib:Amplifier_Power" />
+        </Folder>
+        <Folder Name="03_Antenna">
+            <Cell Name="dg_radar_lib:Antenna_RCV" />
+            <Cell Name="dg_radar_lib:Antenna_XMIT" />
+        </Folder>
+        <Folder Name="03_Other Sub Ckts">
+            <Cell Name="dg_radar_lib:Coupler" />
+            <Cell Name="dg_radar_lib:DownConvertor" />
+            <Cell Name="dg_radar_lib:Source_CW" />
+            <Cell Name="dg_radar_lib:Target" />
+            <Cell Name="dg_radar_lib:Test_Point_A" />
+            <Cell Name="dg_radar_lib:Test_Point_B" />
+            <Cell Name="dg_radar_lib:Test_Point_C" />
+        </Folder>
+        <Folder Name="04_Doppler Radar System">
+            <Cell Name="dg_radar_lib:Doppler_Radar" />
+            <Data_Display Name="Doppler_Radar.dds" />
+        </Folder>
+        <Log Name="netlist.log" />
+        <Dataset Name="Doppler_Radar.ds" />
+        <ConfigFile Name="dds.cfg" />
+    </Workspace>
+</ADSWorkspace>
